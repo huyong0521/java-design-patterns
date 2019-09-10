@@ -11,7 +11,7 @@ target
 .idea
 *.iml
 *.swp
-*.jpr
+*.ipr
 *.iws
 datanucleus.log
 /bin/
